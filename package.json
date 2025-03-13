@@ -1,7 +1,7 @@
 {
-  "name": "fbpcrm",
+  "name": "digitalaraa",
   "version": "1.0.0",
-  "description": "Edumin template",
+  "description": "Digitalaraa template",
   "main": "index.js",
   "scripts": {
     "test": "npm start",
