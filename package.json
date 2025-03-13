@@ -4,9 +4,10 @@
   "description": "Digitalaraa template",
   "main": "index.js",
   "scripts": {
-    "test": "npm start",
     "start": "nodemon index.js",
-    "sass": "node-sass --watch public/assets/scss/main.scss public/assets/css/style.css"
+    "test": "npm start",
+    "sass": "node-sass --watch public/assets/scss/main.scss public/assets/css/style.css",
+    "build": "echo 'No build step needed'"
   },
   "author": "",
   "license": "ISC",
